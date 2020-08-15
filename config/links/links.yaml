@@ -1,0 +1,24 @@
+base: base_link
+left_front:
+  - shoulder_link_lf
+  - thigh_link_lf
+  - shank_link_lf
+  - feet_link_lf
+
+right_front:
+  - shoulder_link_rf
+  - thigh_link_rf
+  - shank_link_rf
+  - feet_link_rf
+
+left_hind:
+  - shoulder_link_lb
+  - thigh_link_lb
+  - shank_link_lb
+  - feet_link_lb
+
+right_hind:
+  - shoulder_link_rb
+  - thigh_link_rb
+  - shank_link_rb
+  - feet_link_rb

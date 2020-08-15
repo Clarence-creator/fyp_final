@@ -1,0 +1,23 @@
+left_front:
+  - shoulder_joint_lf
+  - elbow_joint_lf
+  - knee_joint_lf
+  - ankle_joint_lf
+
+right_front:
+  - shoulder_joint_rf
+  - elbow_joint_rf
+  - knee_joint_rf
+  - ankle_joint_rf
+
+left_hind:
+  - shoulder_joint_lb
+  - elbow_joint_lb
+  - knee_joint_lb
+  - ankle_joint_lb
+
+right_hind:
+  - shoulder_joint_rb
+  - elbow_joint_rb
+  - knee_joint_rb
+  - ankle_joint_rb
